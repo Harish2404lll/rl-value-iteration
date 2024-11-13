@@ -29,8 +29,8 @@ The algorithm is as follows:
 5. Return the optimal policy and the optimal value function.
 
 
-### Name: SANJAY S
-### Register Number:  212221243002
+### Name: HARISH G
+### Register Number:  212222243001
 ## Frozen Lake environment
 ```python
 envdesc  = ['SFHF','FHFF','GFHF', 'FFFH']
